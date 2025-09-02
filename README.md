@@ -128,9 +128,3 @@ Before submitting your PR, please:
 - Update documentation to reflect your changes
 - Ensure all tests pass
 
-
-## 📞 Contact & Support
-
-- **Issues**: Please use the [GitHub Issue Tracker](https://github.com/bharathxd/agent/issues) to report bugs or request features
-- **Email**: [bharathxxd@gmail.com](mailto:bharathxxd@gmail.com)
-- **Twitter**: [@Bharath_uwu](https://twitter.com/bharath_uwu)
