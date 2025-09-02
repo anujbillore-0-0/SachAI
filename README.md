@@ -28,7 +28,7 @@ Here's how it works in practice:
 
 The system runs on LangGraph for orchestrating the workflows. Here's how the pieces connect:
 
-![SachAI AI](https://cloud.imbharath.com/agent-mas.png)
+![SachAI](https://cloud.imbharath.com/agent-mas.png)
 
 It's a bit complex, I know! I spent way too much time getting these interactions right. If you want to understand a specific part better, check out the detailed READMEs:
 
