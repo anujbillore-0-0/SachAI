@@ -128,9 +128,6 @@ Before submitting your PR, please:
 - Update documentation to reflect your changes
 - Ensure all tests pass
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## 📞 Contact & Support
 
