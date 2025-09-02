@@ -6,7 +6,7 @@ This directory contains the implementation of the fact-checking system's core fu
 
 ## 🏗️ Technical Architecture
 
-The ClaimeAI is designed as a multi-agent system (MAS) using LangGraph to orchestrate complex workflows. The system is split into three main modules, each with its own specific responsibility:
+The SachAI is designed as a multi-agent system (MAS) using LangGraph to orchestrate complex workflows. The system is split into three main modules, each with its own specific responsibility:
 
 ```
 agent/
