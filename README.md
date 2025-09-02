@@ -1,11 +1,11 @@
-# Claime AI
+# SachAI AI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/BharathxD/ClaimeAI)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/BharathxD/SachAIAI)
 
 Hey there! I've been working on this fact-checking system for a while, and I'm pretty excited to share it. What we've got here is a comprehensive LangGraph implementation that helps you verify the factual accuracy of text. It'll break down a text into individual claims, check each one against real-world evidence, and then give you a detailed report on what's accurate and what's not.
 
-![Claime AI](https://cloud.imbharath.com/fc-mas-platform-screenshot.webp)
+![SachAI AI](https://cloud.imbharath.com/fc-mas-platform-screenshot.webp)
 
 The system is split into three main parts (I found this modular approach works way better than a single monolithic system):
 
@@ -28,7 +28,7 @@ Here's how it works in practice:
 
 The system runs on LangGraph for orchestrating the workflows. Here's how the pieces connect:
 
-![Claime AI](https://cloud.imbharath.com/agent-mas.png)
+![SachAI AI](https://cloud.imbharath.com/agent-mas.png)
 
 It's a bit complex, I know! I spent way too much time getting these interactions right. If you want to understand a specific part better, check out the detailed READMEs:
 
@@ -77,7 +77,7 @@ The beauty of building on research is that we get to stand on the shoulders of g
 ## 📂 Repository Structure
 
 ```
-claime-ai/
+SachAI-ai/
 ├── .langgraph_api/       # LangGraph API configuration
 ├── apps/
 │   ├── agent/     # Core fact-checking modules
