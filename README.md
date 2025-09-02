@@ -1,4 +1,4 @@
-# SachAI AI
+# SachAI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/BharathxD/SachAIAI)
