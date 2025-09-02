@@ -5,6 +5,7 @@
 Let's get you set up with everything you need. This project uses a few modern tools that make development a breeze:
 
 #### Node.js & pnpm
+##download and run
 
 ```bash
 # Using nvm is the easiest way to manage Node versions (macOS/Linux)
