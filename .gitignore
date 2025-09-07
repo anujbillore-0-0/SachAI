@@ -1,0 +1,10 @@
+# Ignore the file that contains sensitive API keys
+.env
+
+# Ignore Python-specific files and directories
+__pycache__/
+venv/
+*.pyc
+
+# Ignore IDE-specific files (e.g., VS Code)
+.vscode/
