@@ -1,6 +1,3 @@
-Understood! For the Privacy Policy, I recommend creating a `PRIVACY_POLICY.md` file in your `anujbillore-0-0/SachAI` GitHub repository and then using its "raw" link as the URL.
-
-Here's a draft of what you could include in your `PRIVACY_POLICY.md` file, tailored for the `sachAI` extension:
 
 ---
 
@@ -57,5 +54,6 @@ We take reasonable measures to protect the information transmitted to and from t
 By installing and using the sachAI Extension, you consent to the collection and use of information as described in this Privacy Policy.
 
 ## 7. Changes to This Privacy Policy
+
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
