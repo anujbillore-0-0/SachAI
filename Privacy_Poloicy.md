@@ -1,7 +1,4 @@
 
----
-
-**`PRIVACY_POLICY.md` (Draft Content)**
 
 # Privacy Policy for sachAI Extension
 
@@ -57,3 +54,4 @@ By installing and using the sachAI Extension, you consent to the collection and 
 
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
