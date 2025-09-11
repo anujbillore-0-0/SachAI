@@ -29,8 +29,8 @@ VALIDATION_CONFIG = {
 # Context windows
 CONTEXT_WINDOWS = {
     "selection": {
-        "preceding_sentences": 5,
-        "following_sentences": 5,
+        "preceding_sentences": 2,
+        "following_sentences": 1,
     },
     "disambiguation": {
         "preceding_sentences": 5,
