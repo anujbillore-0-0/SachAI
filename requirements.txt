@@ -20,3 +20,4 @@ transformers
 uvicorn
 starlette
 langchain-tavily
+flask
