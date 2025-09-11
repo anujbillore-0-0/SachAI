@@ -60,3 +60,43 @@ streamlit run app.py
 ```
 
 The application will launch in your web browser. You can now use it to fact-check statements.
+
+
+## Run Extension
+
+### Step 1: Install New Dependencies
+The new API requires fastapi and uvicorn. Install them using pip:
+
+pip install fastapi "uvicorn[standard]"
+
+### Step 2: Run the API Backend
+```bash
+cd SachAI
+python api.py
+```
+
+You should see output indicating the server is running, typically on http://127.0.0.1:8000. Keep this terminal window open.
+
+### Step 3: Load the Browser Extension
+Open Google Chrome and navigate to chrome://extensions.
+
+In the top-right corner, toggle on "Developer mode".
+
+A new set of buttons will appear. Click on "Load unpacked".
+
+A file dialog will open. Navigate to your sachAI project and select the extension folder.
+
+The "sachAI: AI Fact-Checker" extension will now appear in your list of extensions.
+
+### Step 4: Use the Extension
+Click the jigsaw puzzle icon in your Chrome toolbar to see your extensions.
+
+Pin the sachAI extension to your toolbar for easy access.
+
+Click the sachAI icon. A popup will appear.
+
+Paste or type the text you want to fact-check into the text area and click the "Fact-Check" button.
+
+The results will be displayed in the popup window.
+
+Note: For the extension to work, the Python API backend from Step 2 must be running locally.
