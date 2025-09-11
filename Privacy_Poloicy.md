@@ -2,8 +2,6 @@
 
 # Privacy Policy for sachAI Extension
 
-This Privacy Policy describes how the "sachAI: AI Fact-Checker" Chrome Extension ("the Extension") collects, uses, and shares information when you use our service.
-
 ## 1. Data Controller
 
 The sachAI Extension is provided by [Your Name/Company Name, e.g., Anuj Billore].
@@ -54,4 +52,5 @@ By installing and using the sachAI Extension, you consent to the collection and 
 
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
 
