@@ -56,7 +56,7 @@ The application requires API keys for the language model and a search provider.
 Start the Streamlit web application.
 
 ```bash
-streamlit run app.py
+flask run
 ```
 
 The application will launch in your web browser. You can now use it to fact-check statements.
