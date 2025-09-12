@@ -1,4 +1,4 @@
-# sachAI: The AI Fact-Checker
+# SachAI: The AI Fact-Checker
 
 ## Overview
 sachAI is an AI-powered fact-checking application that leverages a chain of AI agents to verify factual statements. Built with Python, LangGraph, and Streamlit, this project demonstrates a modular approach to building sophisticated, multi-step AI workflows.
